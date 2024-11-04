@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(10, 11, 19);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.content{
+    text-align: center;
+}
+
+.content h3{
+    font-size: 160px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.content a{
+    text-decoration: none;
+    display: inline;
+    color: #fff;
+    font-size: 24px;
+}
